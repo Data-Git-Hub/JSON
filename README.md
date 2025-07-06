@@ -111,6 +111,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P4 Sect - 3.0 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 2.1 - Add lyric folder; Move JSON files to lyric folder; Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 2.0 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 1.1 - Modify requests-json-nlp.ipynb, README.md
