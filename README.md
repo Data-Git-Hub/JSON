@@ -73,7 +73,11 @@ git push -u origin main
 
 ### Section 1. Accessing and Storing Song Lyrics Using a Public API
 
-### Section 2. 
+### Section 2. Sentiment Analysis of Song Lyrics Using spaCyTextBlob
+
+#### Section 2.1. Interpretation Polarity and Subjectivity Scores
+
+#### Section 2.2. Interpretation Polarity and Subjectivity Scores
 
 ### Section 3. 
 
@@ -107,6 +111,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P4 Sect - 2.0 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 1.1 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 1.0 - Create icon folder, 4thpog.gif; Modify requests-json-nlp.ipynb, README.md
 - P4 Init - 0.0 - Create requests-json-nlp.ipynb, requirements.txt; Modify README.md
