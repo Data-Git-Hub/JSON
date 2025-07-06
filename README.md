@@ -107,6 +107,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P4 Sect - 1.1 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 1.0 - Create icon folder, 4thpog.gif; Modify requests-json-nlp.ipynb, README.md
 - P4 Init - 0.0 - Create requests-json-nlp.ipynb, requirements.txt; Modify README.md
 ## Test History
