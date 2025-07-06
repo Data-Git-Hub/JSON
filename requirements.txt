@@ -1,0 +1,4 @@
+requests
+spacy
+spacytextblob
+ipykernel
