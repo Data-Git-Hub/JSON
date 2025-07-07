@@ -79,9 +79,13 @@ git push -u origin main
 
 #### Section 2.2. Interpretation Polarity and Subjectivity Scores
 
-### Section 3. 
+### Section 3. Fetch and Save Lyrics from Genius API
 
-### Section 4. 
+### Section 4. Perform Sentiment Analysis on Saved Lyrics
+
+#### Section 4.1. Interpretation Polarity and Subjectivity Scores
+
+### Conclusion
 
 ---
 
@@ -111,6 +115,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P4 Sect - 4.0 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 3.0 - Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 2.1 - Add lyric folder; Move JSON files to lyric folder; Modify requests-json-nlp.ipynb, README.md
 - P4 Sect - 2.0 - Modify requests-json-nlp.ipynb, README.md
